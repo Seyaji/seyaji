@@ -17,8 +17,6 @@ Software developer open to work on new projects!
 <a href="https://www.linkedin.com/in/alex-golding/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 <br />
-<br />
-<br />
 
 
 ### :hammer_and_wrench: Languages and Tools :
