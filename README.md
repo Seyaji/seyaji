@@ -1,6 +1,28 @@
 <p align="center" ><img src="https://user-images.githubusercontent.com/67058118/178619812-29290d35-b4d0-46bc-a4ce-845b9b22e0c3.svg" /></p>
 
+## Alex Golding 
+
+
+### About Me:
+
+Software developer open to work on new projects!
+- Confident in frontend styling and technologies
+- Deep interest in ethereum, web3 and blockchain technologies
+- Builder of tests
+- Writer of code generators 
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/alex-golding/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
+<br />
+<br />
+<br />
+
+
 ### :hammer_and_wrench: Languages and Tools :
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" />&nbsp;
@@ -22,7 +44,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+<br />
+<br />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seyaji&theme=dark&background=000000)](https://git.io/streak-stats)
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyaji&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
