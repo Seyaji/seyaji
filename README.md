@@ -5,6 +5,8 @@
 
 ### About Me:
 
+website: <a href="https://alexgolding.vercel.app/">https://alexgolding.vercel.app/</a>
+
 Software developer open to work on new projects!
 - Confident in frontend styling and technologies
 - Deep interest in ethereum, web3 and blockchain technologies
