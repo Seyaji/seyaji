@@ -7,17 +7,6 @@
 
 website: <a href="https://alexgolding.vercel.app/">https://alexgolding.vercel.app/</a>
 
-Software developer open to work on new projects!
-- Confident in frontend styling and technologies
-- Deep interest in ethereum, web3 and blockchain technologies
-- Builder of tests
-- Writer of code generators 
-
-<br />
-
-### Check out my NPM package!
-https://www.npmjs.com/package/adelante
-
 <br />
 
 <a href="https://www.linkedin.com/in/alex-golding/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
